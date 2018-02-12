@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/andyxning/shortme/conf"
-	"github.com/andyxning/shortme/short"
-	"github.com/andyxning/shortme/web"
+	"github.com/cucmeliu/shortme/conf"
+	"github.com/cucmeliu/shortme/short"
+	"github.com/cucmeliu/shortme/web"
 )
 
 func main() {
